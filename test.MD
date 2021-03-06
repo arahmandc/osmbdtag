@@ -1,6 +1,5 @@
 # OpenStreetMap Tag list for Bangladesh
 
-###### These are frequently used tags in Bangladesh. For any suggestion or query please communicate with via any recommended [communication channel](https://wiki.openstreetmap.org/wiki/WikiProject_Bangladesh#.E0.A6.AF.E0.A7.8B.E0.A6.97.E0.A6.BE.E0.A6.AF.E0.A7.8B.E0.A6.97.2FCommunication) for a coordinated approach.
 
 ## HighWay Tag List
 
