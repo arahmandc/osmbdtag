@@ -4,6 +4,10 @@
 
 ## HighWay Tag List
 
+######  All Tags are based on [ROAD PAVMENT DESIGN MENUAL 1999](https://github.com/arahmandc/osmbdtag/blob/main/Raw/1999_Road%20Pavement%20Design%20Manual.pdf), [Pavement Design Catalogue 2003](https://github.com/arahmandc/osmbdtag/blob/main/Raw/2003_Pavement%20Design%20Catalogue%202003.pdf), [Road Design Standards 2004](https://github.com/arahmandc/osmbdtag/blob/main/Raw/2004_Road%20Design%20Standards.pdf), [Road Design Standards Rural Roads 2005](https://github.com/arahmandc/osmbdtag/blob/main/Raw/2005_Road%20Design%20Standards_Rural%20Roads_Final.pdf), [Planning Guidelines for Rural Road Master Plan 2010 ](https://github.com/arahmandc/osmbdtag/blob/main/Raw/GIS%20Guideline_English%202010.pdf), [Maintenance Guidelines for Rural Road 2010](https://github.com/arahmandc/osmbdtag/blob/main/Raw/Maintenance%20Guidelines%202010%20English.pdf)
+
+##Usefull Links
+###### [List of roads in Bangladesh](https://en.wikipedia.org/wiki/List_of_roads_in_Bangladesh)
 
 RHD/LGED/LGI Classification  |  Government Definition  |  OSM Tag  |  OSM Definition  |  Map Rendering  
 ---------------------------  |  ---------------------  |  -------  |  --------------  |  -------------
