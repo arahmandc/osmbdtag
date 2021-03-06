@@ -21,5 +21,7 @@ R2, R3  |  * Roads connecting Villages with Union HQs, local markets, farms and 
 
 ## Inside City Roads Tag List
 
-
+OSM Tags  |  OSM Definition  |  Map Rendering
+--------  |  --------------  |  -------------
+[highway=residential](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dresidential)  |  Road in a residential area  |  ![Residential](https://wiki.openstreetmap.org/w/images/5/57/Rendering-highway_residential.png)
 
