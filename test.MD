@@ -24,4 +24,12 @@ R2, R3  |  * Roads connecting Villages with Union HQs, local markets, farms and 
 OSM Tags  |  OSM Definition  |  Map Rendering
 --------  |  --------------  |  -------------
 [highway=residential](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dresidential)  |  Road in a residential area  |  ![Residential](https://wiki.openstreetmap.org/w/images/5/57/Rendering-highway_residential.png)
+[highway=living_street](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dliving_street)  |  Road with very low speed limits and other pedestrian friendly traffic rules  |  ![living_street](https://wiki.openstreetmap.org/w/images/1/10/Living_street_osm.png)
+[highway=service](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dservice)  |  Generally for access to a building, service station, beach, campsite, industrial estate, business park, etc.  |  ![service](https://wiki.openstreetmap.org/w/images/7/7f/Rendering-highway_service.png)
+
+## Rural Roads Tag List
+
+OSM Tags  |  OSM Definition  |  Map Rendering
+--------  |  --------------  |  -------------
+[highway=track](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dtrack)  |  Roads for agricultural use, forestry use etc.   |  ![track](https://wiki.openstreetmap.org/w/images/1/1c/Mapnik-tracktype-not-set.png)
 
