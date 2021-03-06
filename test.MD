@@ -19,7 +19,7 @@ B, R1  |  * Roads connecting Upazila HQ/s with Growth Center/s or one Growth Cen
 R2, R3  |  * Roads connecting Villages with Union HQs, local markets, farms and ghats or with each other. (Former Rural Road Class-2 (R2) * Roads within a Village. (Former Rural Road Class-3 (R3)  |  [highway=unclassified](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dunclassified)  |  The least important through roads in a country's system – i.e. minor roads of a lower classification than tertiary, but which serve a purpose other than access to properties. (Often link villages and hamlets.)  |  ![unclassified](https://raw.githubusercontent.com/arahmandc/osmbdtag/main/img/Rendering-highway_unclassified.png)
 
 
-## Inside City Roads Tag List
+## Inside Residential Roads Tag List
 
 OSM Tags  |  OSM Definition  |  Map Rendering
 --------  |  --------------  |  -------------
@@ -32,4 +32,8 @@ OSM Tags  |  OSM Definition  |  Map Rendering
 OSM Tags  |  OSM Definition  |  Map Rendering
 --------  |  --------------  |  -------------
 [highway=track](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dtrack)  |  Roads for agricultural use, forestry use etc.   |  ![track](https://wiki.openstreetmap.org/w/images/1/1c/Mapnik-tracktype-not-set.png)
-
+[highway=footway](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dfootway)  |  For designated footpaths, i.e. mainly/exclusively for pedestrians   |  ![footway](https://wiki.openstreetmap.org/w/images/b/b7/Rendering-highway_footway.png)
+ [highway=path](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Dpath)   |  A generic or multi-use path open to non-motorized traffic.   |  ![path](https://wiki.openstreetmap.org/w/images/b/b7/Rendering-highway_footway.png)
+ [highway=road](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Droad)  |  Road with unknown classification.  |  ![rpad](https://wiki.openstreetmap.org/w/images/5/53/Rendering-highway-road-mapnik.png)
+ 
+ 
