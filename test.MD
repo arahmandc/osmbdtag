@@ -1,4 +1,4 @@
-# OpenStreetMap Tag list for Bangladesh
+# Propose OpenStreetMap Tag list for Bangladesh
 
 
 ## HighWay Tag List
