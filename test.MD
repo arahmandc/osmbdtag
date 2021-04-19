@@ -36,3 +36,8 @@ OSM Tags  |  OSM Definition  |  Map Rendering
  [highway=road](https://wiki.openstreetmap.org/wiki/Tag%3Ahighway%3Droad)  |  Road with unknown classification.  |  ![rpad](https://wiki.openstreetmap.org/w/images/5/53/Rendering-highway-road-mapnik.png)
  
  
+## For JOSM Presets
+
+Copy the link and add to Presets Preferences
+Name     : BD_Highways
+URL/File : https://github.com/josmbd/highways_bangladesh/archive/refs/heads/main.zip
